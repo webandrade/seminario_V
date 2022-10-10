@@ -1,20 +1,28 @@
-# seminario_V
-# Seminário Interdisciplinar: Implementação de uma Aplicação WEB (ADS102)
+<h1 align="center">  </h1>
+<h1 align="center"> UNIASSELVI - 2022/2 </h1>
+<h3 align="center"> Curso de Análise Desenvolvimento de Sistemas </h3>
+<h4 align="center"> Semestre V </h4>
 
 
-### Tema
+<h2 align="center"> Seminário Interdisciplinar: Implementação de uma Aplicação WEB (ADS102) </h1>
+
+
+### :blue_book: Tema
+
 Desenvolvimento de uma Aplicação Web utilizando Java ou PHP com HTML, CSS e Javascript.
 
+<h4 align="center">  :construction: Projeto em construção :construction: </h4>
 
 
 
-### Trilha 
+
+### :computer: Trilha 
+
 https://trilhaaprendizagem.uniasselvi.com.br/ADS102_seminario_interdisciplinar_implementacao/apresentacao.html
 
-### Modelo do paper
+### :page_facing_up: Modelo do paper
 
-
-### Para desenvolver seu trabalho (paper), seguem os requisitos referente ao desenvolvimento prático:**
+### :hammer: Para desenvolver seu trabalho (paper), seguem os requisitos referente ao desenvolvimento prático:
 
 1. Descrever uma narrativa explicando o que o sistema terá (sugestão: site de notícias com imagens e textos formatados e com formulários de cadastro ou pesquisa etc.).
 
@@ -45,3 +53,8 @@ Conclusões; e
 Referências.
 
 
+<h1 align="center"> Links de Referência </h1>
+
+Como escrever um README incrível no seu Github
+
+https://www.alura.com.br/artigos/escrever-bom-readme?gclid=EAIaIQobChMIhc3I5dzW-gIVChpMCh1MVAr7EAAYASAAEgLa1PD_BwE
