@@ -19,7 +19,7 @@ Desenvolvimento de uma Aplicação Web utilizando Java ou PHP com HTML, CSS e Ja
 
 https://trilhaaprendizagem.uniasselvi.com.br/ADS102_seminario_interdisciplinar_implementacao/apresentacao.html
 
-### :page_facing_up: [Modelo do paper] (/docs/Novo_Template_Seminário.doc)
+### :page_facing_up: [Modelo do paper](/docs/Novo_Template_Seminario.doc)
 
 
 
