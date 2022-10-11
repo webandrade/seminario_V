@@ -19,7 +19,9 @@ Desenvolvimento de uma Aplicação Web utilizando Java ou PHP com HTML, CSS e Ja
 
 https://trilhaaprendizagem.uniasselvi.com.br/ADS102_seminario_interdisciplinar_implementacao/apresentacao.html
 
-### :page_facing_up: Modelo do paper
+### :page_facing_up: [Modelo do paper] (/docs/Novo_Template_Seminário.doc)
+
+
 
 ### :hammer: Para desenvolver seu trabalho (paper), seguem os requisitos referente ao desenvolvimento prático:
 
@@ -47,6 +49,8 @@ Além disso, você deve descrever através de citações diretas ou indiretas, s
 
 <h1 align="center"> Links de Referência </h1>
 
-* [Como escrever um README incrível no seu Github](https://www.alura.com.br/artigos/escrever-bom-readme?gclid=EAIaIQobChMIhc3I5dzW-gIVChpMCh1MVAr7EAAYASAAEgLa1PD_BwE)
+* Alura [Como escrever um README incrível no seu Github](https://www.alura.com.br/artigos/escrever-bom-readme?gclid=EAIaIQobChMIhc3I5dzW-gIVChpMCh1MVAr7EAAYASAAEgLa1PD_BwE)
 
 * [Guia do Makdown](https://www.markdownguide.org/basic-syntax/)
+
+* Rocketseat [Como fazer um bom README](https://blog.rocketseat.com.br/como-fazer-um-bom-readme/)
