@@ -21,6 +21,9 @@ https://trilhaaprendizagem.uniasselvi.com.br/ADS102_seminario_interdisciplinar_i
 
 ### :page_facing_up: [Modelo do paper](https://github.com/webandrade/seminario_V/blob/cccb5530758a8f9b7057c6bfe7a0ba2e6c91c578/docs/Novo_Template_Semin%C3%A1rio.doc)
 
+### :page_facing_up: [Modelo do PPT para a apresentação da socialização](https://github.com/webandrade/seminario_V/blob/cccb5530758a8f9b7057c6bfe7a0ba2e6c91c578/docs/Templates_Socializa%C3%A7%C3%A3o_Seminario_modulo_V.pptx)
+
+
 
 
 ### :hammer: Para desenvolver seu trabalho (paper), seguem os requisitos referente ao desenvolvimento prático:
