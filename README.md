@@ -40,14 +40,14 @@ Além disso, você deve descrever através de citações diretas ou indiretas, s
 
 > Neste trabalho, você deverá apresentar os seguintes tópicos:
 > 
-> Título;  **Introdução ao Desenvolvimento WEB**  
-> Resumo;  
-> Introdução;  
-> Fundamentação Teórica;  
-> Metodologia;  
-> Resultados e Discussões;  
-> Conclusões; e  
-> Referências.
+> - [x] Título; ***Introdução ao Desenvolvimento WEB***     
+> - [ ] Resumo;  
+> - [ ] Introdução;  
+> - [ ] Fundamentação Teórica;  
+> - [ ] Metodologia;  
+> - [ ] Resultados e Discussões;  
+> - [ ] Conclusões; e  
+> - [ ] Referências.
 
 
 <h1 align="center"> Links de Referência </h1>
