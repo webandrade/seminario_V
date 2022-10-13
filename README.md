@@ -6,6 +6,13 @@
 
 <h2 align="center"> Seminário Interdisciplinar: Implementação de uma Aplicação WEB (ADS102) </h1>
 
+:walking: Grupo 03: 
+* Alex Andrade
+* Alisson Lentz Mota
+* Carlos Alberto Ribeiro Lopes 
+* Fabio Junior Oliveira Brasil 
+* Gabriel Domingos Linhares
+
 
 ### :blue_book: Tema
 
